@@ -1,5 +1,5 @@
 context:
-  version: "0.6.0"
+  version: "1.0.0"
 
 package:
   name: cmakefmt
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/cmakefmt/cmakefmt/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 24d161b5c9240b685981a90e69538f7ef6cb6d2d86cdd1b61b43545ad6ade9ce
+  sha256: 6f650548a620d2fa047f0fa411c9d14107173f7dccb9d424fe962a952b17e42c
 
 build:
   number: 0
